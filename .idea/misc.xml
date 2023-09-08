@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/jakartaee-hello-world/pom.xml" />
+        <option value="$PROJECT_DIR$/jsf-hello-world/pom.xml" />
       </list>
     </option>
   </component>

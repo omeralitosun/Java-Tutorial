@@ -1,4 +1,4 @@
-package org.eclipse.jakarta;
+package org.jakarta.jsf;
 
 import jakarta.enterprise.context.SessionScoped;
 import jakarta.inject.Named;
